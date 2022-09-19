@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\bin\Debug\net6.0\GB_firstUnitFinalWork.exe
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\bin\Debug\net6.0\GB_firstUnitFinalWork.deps.json
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\bin\Debug\net6.0\GB_firstUnitFinalWork.runtimeconfig.json
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\bin\Debug\net6.0\GB_firstUnitFinalWork.dll
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\bin\Debug\net6.0\GB_firstUnitFinalWork.pdb
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.AssemblyInfo.cs
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.dll
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\refint\GB_firstUnitFinalWork.dll
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.pdb
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\GB_firstUnitFinalWork.genruntimeconfig.cache
+C:\Users\ACER\Desktop\GB\Unit1Final\GB_firstUnitFinalWork\obj\Debug\net6.0\ref\GB_firstUnitFinalWork.dll
